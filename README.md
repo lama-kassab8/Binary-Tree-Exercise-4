@@ -2,7 +2,7 @@
 
 📎 [View problem on LeetCode](https://leetcode.com/problems/same-tree/description/?envType=problem-list-v2&envId=ngf2qr5t)
 
-## 🧠 Problem Summary
+## Problem Summary
 
 Given the roots of two binary trees `p` and `q`, write a function to check if they are **the same** or not.
 
@@ -12,7 +12,7 @@ Two binary trees are considered the same if:
 
 ---
 
-## ✅ Example
+## Example
 
 Input: p = [1,2,3], q = [1,2,3]
 Output: true
